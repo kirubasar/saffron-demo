@@ -8,28 +8,28 @@ const products = [
     title: 'Indian Kashmiri Saffron',
     weight: '2g',
     price: 1400,
-    image: '/saved-wget/assets/saffron-1-Bd_ddMn1.jpg',
+    image: '/saffron-1-Bd_ddMn1.jpg',
   },
   {
     id: 'kashmir-5g',
     title: 'Indian Kashmiri Saffron',
     weight: '5g',
     price: 3400,
-    image: '/saved-wget/assets/saffron-3-CQjVsn3U.jpg',
+    image: '/saffron-3-CQjVsn3U.jpg',
   },
   {
     id: 'spain-2g',
     title: 'Spain Saffron',
     weight: '2g',
     price: 1600,
-    image: '/saved-wget/assets/saffron-1-Bd_ddMn1.jpg',
+    image: '/saffron-1-Bd_ddMn1.jpg',
   },
   {
     id: 'spain-5g',
     title: 'Spain Saffron',
     weight: '5g',
     price: 3600,
-    image: '/saved-wget/assets/saffron-3-CQjVsn3U.jpg',
+    image: '/saffron-3-CQjVsn3U.jpg',
   },
 ];
 
